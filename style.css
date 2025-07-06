@@ -1,5 +1,5 @@
 body{
-    background-image: url("/img\ &\ logos/b.avif");
+    background-image: url("b.avif");
     background-size: cover;
     padding: 50px 400px   ;
 
@@ -38,7 +38,7 @@ body{
     color: aliceblue;
 }
 .logged{
-    background-image: url("/img\ &\ logos/minion.avif");
+    background-image: url("minion.avif");
     text-align: center;
     
 }
